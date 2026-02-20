@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class SecureStudentLoginSystem{
     public static void main(String[] args) {
+        //creating object of Scanner class
         Scanner sc = new Scanner(System.in);
         String username = "atif07";
         String password = "atif098";
